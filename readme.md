@@ -13,7 +13,7 @@
 
 http://localhost:8000/user-import
 
-NB: After clicking submit it will import the data from CSV file also it will generate error because of duplicate email address. Laravel accepts only non duplicate user email in user table. (Please check provided CSV file it contains duplicate email address) 
+NB: After clicking submit it will import the data from CSV file also it will generate an error because of the duplicate email address. Laravel accepts only non duplicate user email in the user table. (Please check provided CSV file it contains duplicate email address)
 
 ## User list Route
 

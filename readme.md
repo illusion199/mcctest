@@ -21,5 +21,5 @@ http://localhost:8000/user
 
 ## User Detail route
 
-Just click on the specific user on user table
+Just click on the specific user on user table and back to User List table.
 

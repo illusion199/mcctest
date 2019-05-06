@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
     <div class="container">
-        <form class="form-horizontal" action="/usermanagement" method="post" enctype="multipart/form-data">
+        <form class="form-horizontal" action="/user" method="post" enctype="multipart/form-data">
             {{csrf_field()}}
             <div class="form-group">
                 <div class="col-sm-offset-2 col-sm-10">
